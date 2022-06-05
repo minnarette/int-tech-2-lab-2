@@ -1,0 +1,90 @@
+[{
+    "disciple": "Computer Networks",
+    "group": ["KI-12-1","KI-12-2","KI-12-3", "KI-12-4", "KI-12-5"],
+    "date": "2022-05-31",
+    "day": "Tuesday",
+    "auditorium": "104i",
+    "number": 1, 
+    "type": "Lecture",
+    "teacher": "Kovalenko A.A."
+  },
+  {
+    "disciple": "Creation of Images and Sound",
+    "group": ["KI-12-1","KI-12-2","KI-12-3", "KI-12-4", "KI-12-5"],
+    "date": "2022-05-31",
+    "day": "Tuesday",
+    "auditorium": "104i",
+    "number": 2, 
+    "type": "Lecture",
+    "teacher": "Kovalenko A.A."
+  },
+  {
+    "disciple": "Creation of Images and Sound",
+    "group": "KI-12-1",
+    "date": "2022-05-31",
+    "day": "Tuesday",
+    "auditorium": "33z",
+    "number": 3, 
+    "type": "Laboratory",
+    "teacher": ["Kovalenko A.A.","Yankovskiy O.A."]
+  },
+  {
+    "disciple": "Creation of Images and Sound",
+    "group": "KI-12-1",
+    "date": "2022-05-31",
+    "day": "Tuesday",
+    "auditorium": "33z",
+    "number": 4, 
+    "type": "Laboratory",
+    "teacher": ["Kovalenko A.A.","Yankovskiy O.A."]
+  },
+  {
+    "disciple": "Internet Technologies",
+    "group": ["KI-12-1","KI-12-2","KI-12-3", "KI-12-4", "KI-12-5"],
+    "date": "2022-06-01",
+    "day": "Wednesday",
+    "auditorium": "104i",
+    "number": 3, 
+    "type": "Lecture",
+    "teacher": "Ivaschenko G.S."
+  },
+  {
+    "disciple": "Internet Technologies",
+    "group": ["KI-12-1","KI-12-2","KI-12-3", "KI-12-4", "KI-12-5"],
+    "date": "2022-06-01",
+    "day": "Wednesday",
+    "auditorium": "104i",
+    "number": 4, 
+    "type": "Lecture",
+    "teacher": "Ivaschenko G.S."
+  },
+  {
+    "disciple": "Internet Technologies",
+    "group": "KI-12-1",
+    "date": "2022-06-01",
+    "day": "Tuesday",
+    "auditorium": "229",
+    "number": 5, 
+    "type": "Laboratory",
+    "teacher": ["Ivaschenko G.S.","Yankovskiy O.A."]
+  },
+  {
+    "disciple": "Internet Technologies",
+    "group": "KI-12-1",
+    "date": "2022-06-01",
+    "day": "Tuesday",
+    "auditorium": "229",
+    "number": 6, 
+    "type": "Laboratory",
+    "teacher": ["Ivaschenko G.S.","Yankovskiy O.A."]
+  },
+  {
+    "disciple": "Computer Networks",
+    "group": "KI-12-2",
+    "date": "2022-06-03",
+    "day": "Friday",
+    "auditorium": "106i",
+    "number": 1, 
+    "type": "Practice",
+    "teacher": "Kovalenko A.A."
+  }]
